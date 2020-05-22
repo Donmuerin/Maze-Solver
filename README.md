@@ -1,1 +1,2 @@
-# Maze-Solver (Dummy - but of course it works)
+# Maze-Solver
+A quick and dummy test - but of course it's working :)
